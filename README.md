@@ -1,2 +1,1 @@
-# Stellar-Beats
-music app
+# Stellar-Beats-A-Music-Website
